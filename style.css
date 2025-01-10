@@ -37,7 +37,7 @@
   
   /* header bg style */
   .first-div{
-      background-image: url('../B10A1-Challenge-Begins-main/assets/Hero-bg.png');
+      background-image: url('./B10A1-Challenge-Begins-main/assets/Hero-bg.png');
       margin-top: 36px;
       padding-bottom: 25px;
       text-align: center;
