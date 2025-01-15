@@ -412,4 +412,38 @@
         /* text-align: left; */
         width: 100%;
     }
+    /* main section */
+    main{
+        margin: 0px auto;
+    }
+    .first-content{
+        background: rgba(13, 19, 33, 0.02);
+    }
+    .head1{
+        text-align: left;
+        width: 100%;
+    }
+    .content2, .content3, .content4{
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    .content2,.content4{
+        border: 1px solid lightgray;
+        border-radius: 8px;
+        text-align: left;
+        width: 100%;
+        margin-left: -50px;
+    }
+    .image2,.image4{
+        margin-left: 80px;
+    }
+    .content3{
+        text-align: left;
+        width: 100%;
+        border: 1px solid lightgray;
+        border-radius: 8px;
+        margin-left: -50px;
+
+    }
+    
 }
